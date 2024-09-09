@@ -40,4 +40,5 @@ public class PiTri {
         return a * a + b * b == c * c;
     }
 //i m adding this change
+    // i m adding one more change
 }
